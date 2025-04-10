@@ -1,2 +1,2 @@
-## Run the HTML file
-Click [here](timetable.html) to open the HTML file.
+## Preview
+![Project Screenshot](https://imgur.com/vfgPgkM)
